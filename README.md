@@ -57,7 +57,7 @@
 
 - **Create a database:**
   ```sql
-  CREATE DATABASE test_db;
+  CREATE DATABASE (Data base name);
   --or,
   create database test_db1; --not case sensiitive
   ```
